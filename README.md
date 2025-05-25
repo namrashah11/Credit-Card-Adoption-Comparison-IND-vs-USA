@@ -44,16 +44,6 @@ This project explores credit card adoption and spending patterns in the **United
 - Targeted products (e.g., for 30–44 age group, retirees) and **seasonal offers** can boost credit engagement.
 - **Financial literacy** and **tailored products** can support credit growth in low-income or developing regions.
 
-## 👥 Team Members & Contributions
-
-| Name | Contributions |
-|------|---------------|
-| **Farha Shireen** | Goals & objectives, graphs 4–8, presentation support |
-| **Namra Shah** | US-India comparisons (graphs 10–15, 17–18), report writing, final submission |
-| **Rohan Ajay** | Visualization planning, graphs 1–3, Tableau support |
-| **Subbaiah Veeramani** | Dashboard building, parameter implementation, graphs 1–3 |
-| **Swanand Gaikwad** | Graphs 10–15 & 17–18, presentation delivery |
-| **Vaishnavi Devarakonda** | Data sourcing, graphs 6–9 & 16, final dashboard compilation, QA checks |
 
 ## 📎 Appendix
 
